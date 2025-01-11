@@ -39,19 +39,22 @@
 
 ## How to Use the App
 
-### 1. Pick Your Poison
+### 1. Access the App Online
+- Visit the deployed app: [SculptZone on GitHub Pages](https://asrira428.github.io/Workout-Generator/#workout).
+
+### 2. Pick Your Poison
 - Select a workout split from the available options.
 - Each option caters to different training styles and schedules.
 
-### 2. Define Your Objectives
+### 3. Define Your Objectives
 - Choose the muscle groups you want to target for your workout.
 - Options are dependent on the selected workout split.
 - A dropdown modal ensures easy muscle group selection.
 
-### 3. Unleash Your Potential
+### 4. Unleash Your Potential
 - Specify your fitness goal to tailor your workout intensity and focus.
 
-### 4. Formulate Your Workout
+### 5. Formulate Your Workout
 - Click the "Formulate" button to generate your workout plan.
 - Receive a structured plan to follow based on your inputs.
 
@@ -80,7 +83,7 @@
 
 ---
 
-## Installation and Setup
+## Local Host Installation and Setup
 
 ### Prerequisites
 - Node.js and npm installed on your machine.
